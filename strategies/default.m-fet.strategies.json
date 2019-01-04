@@ -1,0 +1,13 @@
+﻿[
+    [
+        {
+            "constructionMethod": "Construction_By_SubGroups",
+            "localSearch": null,
+            "name": "GRASP",
+            "settings": {
+                "alpha": 0.699999988079071,
+                "n_iter": 1
+            }
+        }
+    ]
+]

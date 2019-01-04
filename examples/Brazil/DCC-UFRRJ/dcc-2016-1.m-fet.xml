@@ -1,0 +1,4962 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<fet version="5.31.6">
+
+<Institution_Name>DCC/IM/UFRRJ</Institution_Name>
+
+<Comments>Default comments</Comments>
+
+<Days_List>
+<Number_of_Days>5</Number_of_Days>
+<Day>
+	<Name>Segunda</Name>
+</Day>
+<Day>
+	<Name>Terça</Name>
+</Day>
+<Day>
+	<Name>Quarta</Name>
+</Day>
+<Day>
+	<Name>Quinta</Name>
+</Day>
+<Day>
+	<Name>Sexta</Name>
+</Day>
+</Days_List>
+
+<Hours_List>
+<Number_of_Hours>7</Number_of_Hours>
+<Hour>
+	<Name>08:00</Name>
+</Hour>
+<Hour>
+	<Name>10:00</Name>
+</Hour>
+<Hour>
+	<Name>12:00</Name>
+</Hour>
+<Hour>
+	<Name>14:00</Name>
+</Hour>
+<Hour>
+	<Name>16:00</Name>
+</Hour>
+<Hour>
+	<Name>18:00</Name>
+</Hour>
+<Hour>
+	<Name>20:00</Name>
+</Hour>
+</Hours_List>
+
+<Subjects_List>
+<Subject>
+	<Name>Algoritmos Paralelos</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Análise de Algoritmos</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Aprendizado de máquina</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Arquitetura de Computadores I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Arquitetura de Computadores II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Arquiteturas Paralelas</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Banco de Dados</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Banco de Dados II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Circuitos Digitais</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Circuitos eletrônicos</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Compiladores</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Computadores e Sociedade</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Computação Gráfica</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Computação Gráfica II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Computação I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Computação II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Computação III</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Criptografia</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Desenvolvimento de Aplicações e Internet</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Educação e informática</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Empreendedorismo</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Engenharia de Software I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Engenharia de software II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Estrutura de Dados I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Estrutura de Dados II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Fundamento de Sistemas</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Gerencia de Projetos</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Governança de TI</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Grafos e Algoritmos</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Informática aplicada ao ensino de matemática</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Inteligência Artificial</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Interfaces usuário-máquina</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Introdução a Sistemas de Recomendação</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Introdução à Ciência da Computação</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Introdução à Teoria das Redes de Petri</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Introdução à computação quântica</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Linguagens Formais e Autômatos</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Linguagens de Programação</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Matemática Discreta</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Mineração de Dados</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Modelagem de Sistemas</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Métodos Numéricos</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Otimização Combinatória</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Otimização Linear</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Otimização inteira</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Processamento de Imagens</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Processamento de Linguagem Natural</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Programação Paralela e Distribuída</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Programação não-linear</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Projeto de Sistemas</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Redes de Computadores</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Redes de Computadores Sem Fio</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sistemas Distribuídos</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sistemas Operacionais</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sistemas multimídia</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Telefonia IP</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Teoria dos jogos algorítmica</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Tópicos Especiais em Banco de Dados</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Tópicos Especiais em Ciência da Computação</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Tópicos Especiais em Inteligência Artificial</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Tópicos Especiais em Otimização</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Tópicos Especiais em Programação</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Tópicos Especiais em Teoria dos Grafos</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Ética em computação</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Ética, sociedade e tecnologia</Name>
+	<Comments></Comments>
+</Subject>
+</Subjects_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>A</Name>
+	<Active>true</Active>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Subjects_Preferences>
+		<Subject>Algoritmos Paralelos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Análise de Algoritmos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Aprendizado de máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquiteturas Paralelas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos Digitais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos eletrônicos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Compiladores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computadores e Sociedade</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação III</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Criptografia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Desenvolvimento de Aplicações e Internet</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Educação e informática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Empreendedorismo</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de Software I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de software II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Estrutura de Dados I</Subject>
+		<Preference>High</Preference>
+		<Subject>Estrutura de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Fundamento de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Gerencia de Projetos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Governança de TI</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Grafos e Algoritmos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Informática aplicada ao ensino de matemática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Inteligência Artificial</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Interfaces usuário-máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução a Sistemas de Recomendação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à Ciência da Computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à Teoria das Redes de Petri</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à computação quântica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens Formais e Autômatos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens de Programação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Matemática Discreta</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Mineração de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Modelagem de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Métodos Numéricos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Combinatória</Subject>
+		<Preference>Low</Preference>
+		<Subject>Otimização Linear</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Otimização inteira</Subject>
+		<Preference>Low</Preference>
+		<Subject>Processamento de Imagens</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Linguagem Natural</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação Paralela e Distribuída</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação não-linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Projeto de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores Sem Fio</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Distribuídos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Operacionais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas multimídia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Telefonia IP</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Teoria dos jogos algorítmica</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Tópicos Especiais em Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Ciência da Computação</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Otimização</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Tópicos Especiais em Programação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Teoria dos Grafos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética em computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética, sociedade e tecnologia</Subject>
+		<Preference>Very_Low</Preference>
+	</Subjects_Preferences>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>B</Name>
+	<Active>true</Active>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Subjects_Preferences>
+		<Subject>Algoritmos Paralelos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Análise de Algoritmos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Aprendizado de máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores I</Subject>
+		<Preference>Low</Preference>
+		<Subject>Arquitetura de Computadores II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquiteturas Paralelas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos Digitais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos eletrônicos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Compiladores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computadores e Sociedade</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Computação Gráfica II</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Computação I</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Computação II</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Computação III</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Criptografia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Desenvolvimento de Aplicações e Internet</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Educação e informática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Empreendedorismo</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de Software I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de software II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Estrutura de Dados I</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Estrutura de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Fundamento de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Gerencia de Projetos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Governança de TI</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Grafos e Algoritmos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Informática aplicada ao ensino de matemática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Inteligência Artificial</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Interfaces usuário-máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução a Sistemas de Recomendação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à Ciência da Computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à Teoria das Redes de Petri</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à computação quântica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens Formais e Autômatos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens de Programação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Matemática Discreta</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Mineração de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Modelagem de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Métodos Numéricos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Combinatória</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização inteira</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Imagens</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Processamento de Linguagem Natural</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação Paralela e Distribuída</Subject>
+		<Preference>Low</Preference>
+		<Subject>Programação não-linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Projeto de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores Sem Fio</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Distribuídos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Operacionais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas multimídia</Subject>
+		<Preference>High</Preference>
+		<Subject>Telefonia IP</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Teoria dos jogos algorítmica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Ciência da Computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Otimização</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Programação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Teoria dos Grafos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética em computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética, sociedade e tecnologia</Subject>
+		<Preference>Very_Low</Preference>
+	</Subjects_Preferences>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>C</Name>
+	<Active>true</Active>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Subjects_Preferences>
+		<Subject>Algoritmos Paralelos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Análise de Algoritmos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Aprendizado de máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores I</Subject>
+		<Preference>Low</Preference>
+		<Subject>Arquitetura de Computadores II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquiteturas Paralelas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Banco de Dados II</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Circuitos Digitais</Subject>
+		<Preference>Low</Preference>
+		<Subject>Circuitos eletrônicos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Compiladores</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computadores e Sociedade</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação I</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computação II</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Computação III</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Criptografia</Subject>
+		<Preference>Low</Preference>
+		<Subject>Desenvolvimento de Aplicações e Internet</Subject>
+		<Preference>Low</Preference>
+		<Subject>Educação e informática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Empreendedorismo</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Engenharia de Software I</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Engenharia de software II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Estrutura de Dados I</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Estrutura de Dados II</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Fundamento de Sistemas</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Gerencia de Projetos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Governança de TI</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Grafos e Algoritmos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Informática aplicada ao ensino de matemática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Inteligência Artificial</Subject>
+		<Preference>High</Preference>
+		<Subject>Interfaces usuário-máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução a Sistemas de Recomendação</Subject>
+		<Preference>Low</Preference>
+		<Subject>Introdução à Ciência da Computação</Subject>
+		<Preference>High</Preference>
+		<Subject>Introdução à Teoria das Redes de Petri</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à computação quântica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens Formais e Autômatos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens de Programação</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Matemática Discreta</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Mineração de Dados</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Modelagem de Sistemas</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Métodos Numéricos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Combinatória</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização inteira</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Imagens</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Linguagem Natural</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Programação Paralela e Distribuída</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação não-linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Projeto de Sistemas</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Redes de Computadores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores Sem Fio</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Distribuídos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Operacionais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas multimídia</Subject>
+		<Preference>Low</Preference>
+		<Subject>Telefonia IP</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Teoria dos jogos algorítmica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Banco de Dados</Subject>
+		<Preference>High</Preference>
+		<Subject>Tópicos Especiais em Ciência da Computação</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Tópicos Especiais em Otimização</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Programação</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Tópicos Especiais em Teoria dos Grafos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética em computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética, sociedade e tecnologia</Subject>
+		<Preference>Very_Low</Preference>
+	</Subjects_Preferences>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>D</Name>
+	<Active>false</Active>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Subjects_Preferences>
+		<Subject>Algoritmos Paralelos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Análise de Algoritmos</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Aprendizado de máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquiteturas Paralelas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos Digitais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos eletrônicos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Compiladores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computadores e Sociedade</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação III</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Criptografia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Desenvolvimento de Aplicações e Internet</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Educação e informática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Empreendedorismo</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de Software I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de software II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Estrutura de Dados I</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Estrutura de Dados II</Subject>
+		<Preference>Low</Preference>
+		<Subject>Fundamento de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Gerencia de Projetos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Governança de TI</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Grafos e Algoritmos</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Informática aplicada ao ensino de matemática</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Inteligência Artificial</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Interfaces usuário-máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução a Sistemas de Recomendação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à Ciência da Computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à Teoria das Redes de Petri</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à computação quântica</Subject>
+		<Preference>Low</Preference>
+		<Subject>Linguagens Formais e Autômatos</Subject>
+		<Preference>High</Preference>
+		<Subject>Linguagens de Programação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Matemática Discreta</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Mineração de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Modelagem de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Métodos Numéricos</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Otimização Combinatória</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Linear</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Otimização inteira</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Imagens</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Linguagem Natural</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação Paralela e Distribuída</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação não-linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Projeto de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores Sem Fio</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Distribuídos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Operacionais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas multimídia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Telefonia IP</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Teoria dos jogos algorítmica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Ciência da Computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Otimização</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Programação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Teoria dos Grafos</Subject>
+		<Preference>High</Preference>
+		<Subject>Ética em computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética, sociedade e tecnologia</Subject>
+		<Preference>Very_Low</Preference>
+	</Subjects_Preferences>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>E</Name>
+	<Active>true</Active>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Subjects_Preferences>
+		<Subject>Algoritmos Paralelos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Análise de Algoritmos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Aprendizado de máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores I</Subject>
+		<Preference>Low</Preference>
+		<Subject>Arquitetura de Computadores II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquiteturas Paralelas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos Digitais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos eletrônicos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Compiladores</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Computadores e Sociedade</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação I</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Computação II</Subject>
+		<Preference>High</Preference>
+		<Subject>Computação III</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Criptografia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Desenvolvimento de Aplicações e Internet</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Educação e informática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Empreendedorismo</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de Software I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de software II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Estrutura de Dados I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Estrutura de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Fundamento de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Gerencia de Projetos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Governança de TI</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Grafos e Algoritmos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Informática aplicada ao ensino de matemática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Inteligência Artificial</Subject>
+		<Preference>High</Preference>
+		<Subject>Interfaces usuário-máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução a Sistemas de Recomendação</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Introdução à Ciência da Computação</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Introdução à Teoria das Redes de Petri</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à computação quântica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens Formais e Autômatos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens de Programação</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Matemática Discreta</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Mineração de Dados</Subject>
+		<Preference>High</Preference>
+		<Subject>Modelagem de Sistemas</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Métodos Numéricos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Combinatória</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização inteira</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Imagens</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Linguagem Natural</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação Paralela e Distribuída</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação não-linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Projeto de Sistemas</Subject>
+		<Preference>High</Preference>
+		<Subject>Redes de Computadores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores Sem Fio</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Distribuídos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Operacionais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas multimídia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Telefonia IP</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Teoria dos jogos algorítmica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Ciência da Computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+		<Preference>High</Preference>
+		<Subject>Tópicos Especiais em Otimização</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Programação</Subject>
+		<Preference>High</Preference>
+		<Subject>Tópicos Especiais em Teoria dos Grafos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética em computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética, sociedade e tecnologia</Subject>
+		<Preference>Very_Low</Preference>
+	</Subjects_Preferences>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>F</Name>
+	<Active>true</Active>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Subjects_Preferences>
+		<Subject>Algoritmos Paralelos</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Análise de Algoritmos</Subject>
+		<Preference>High</Preference>
+		<Subject>Aprendizado de máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores I</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Arquitetura de Computadores II</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Arquiteturas Paralelas</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos Digitais</Subject>
+		<Preference>High</Preference>
+		<Subject>Circuitos eletrônicos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Compiladores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computadores e Sociedade</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação I</Subject>
+		<Preference>High</Preference>
+		<Subject>Computação II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação III</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Criptografia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Desenvolvimento de Aplicações e Internet</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Educação e informática</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Empreendedorismo</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de Software I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de software II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Estrutura de Dados I</Subject>
+		<Preference>High</Preference>
+		<Subject>Estrutura de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Fundamento de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Gerencia de Projetos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Governança de TI</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Grafos e Algoritmos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Informática aplicada ao ensino de matemática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Inteligência Artificial</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Interfaces usuário-máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução a Sistemas de Recomendação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à Ciência da Computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à Teoria das Redes de Petri</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à computação quântica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens Formais e Autômatos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens de Programação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Matemática Discreta</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Mineração de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Modelagem de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Métodos Numéricos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Combinatória</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização inteira</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Imagens</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Linguagem Natural</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação Paralela e Distribuída</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Programação não-linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Projeto de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores</Subject>
+		<Preference>Low</Preference>
+		<Subject>Redes de Computadores Sem Fio</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Distribuídos</Subject>
+		<Preference>High</Preference>
+		<Subject>Sistemas Operacionais</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Sistemas multimídia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Telefonia IP</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Teoria dos jogos algorítmica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Ciência da Computação</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Otimização</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Programação</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Tópicos Especiais em Teoria dos Grafos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética em computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética, sociedade e tecnologia</Subject>
+		<Preference>Very_Low</Preference>
+	</Subjects_Preferences>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>G</Name>
+	<Active>true</Active>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Subjects_Preferences>
+		<Subject>Algoritmos Paralelos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Análise de Algoritmos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Aprendizado de máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquiteturas Paralelas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos Digitais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos eletrônicos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Compiladores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computadores e Sociedade</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computação Gráfica II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação I</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Computação II</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computação III</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Criptografia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Desenvolvimento de Aplicações e Internet</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Educação e informática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Empreendedorismo</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de Software I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de software II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Estrutura de Dados I</Subject>
+		<Preference>High</Preference>
+		<Subject>Estrutura de Dados II</Subject>
+		<Preference>Low</Preference>
+		<Subject>Fundamento de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Gerencia de Projetos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Governança de TI</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Grafos e Algoritmos</Subject>
+		<Preference>High</Preference>
+		<Subject>Informática aplicada ao ensino de matemática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Inteligência Artificial</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Interfaces usuário-máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução a Sistemas de Recomendação</Subject>
+		<Preference>High</Preference>
+		<Subject>Introdução à Ciência da Computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à Teoria das Redes de Petri</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à computação quântica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens Formais e Autômatos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens de Programação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Matemática Discreta</Subject>
+		<Preference>Low</Preference>
+		<Subject>Mineração de Dados</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Modelagem de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Métodos Numéricos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Otimização Combinatória</Subject>
+		<Preference>Low</Preference>
+		<Subject>Otimização Linear</Subject>
+		<Preference>Low</Preference>
+		<Subject>Otimização inteira</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Imagens</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Linguagem Natural</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Programação Paralela e Distribuída</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação não-linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Projeto de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores Sem Fio</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Distribuídos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Operacionais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas multimídia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Telefonia IP</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Teoria dos jogos algorítmica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Ciência da Computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Tópicos Especiais em Otimização</Subject>
+		<Preference>High</Preference>
+		<Subject>Tópicos Especiais em Programação</Subject>
+		<Preference>High</Preference>
+		<Subject>Tópicos Especiais em Teoria dos Grafos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética em computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética, sociedade e tecnologia</Subject>
+		<Preference>Very_Low</Preference>
+	</Subjects_Preferences>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>H</Name>
+	<Active>true</Active>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Subjects_Preferences>
+		<Subject>Algoritmos Paralelos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Análise de Algoritmos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Aprendizado de máquina</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Arquitetura de Computadores I</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Arquitetura de Computadores II</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Arquiteturas Paralelas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Banco de Dados II</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Circuitos Digitais</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Circuitos eletrônicos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Compiladores</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Computadores e Sociedade</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computação Gráfica</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computação Gráfica II</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Computação I</Subject>
+		<Preference>High</Preference>
+		<Subject>Computação II</Subject>
+		<Preference>High</Preference>
+		<Subject>Computação III</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Criptografia</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Desenvolvimento de Aplicações e Internet</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Educação e informática</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Empreendedorismo</Subject>
+		<Preference>Low</Preference>
+		<Subject>Engenharia de Software I</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Engenharia de software II</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Estrutura de Dados I</Subject>
+		<Preference>High</Preference>
+		<Subject>Estrutura de Dados II</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Fundamento de Sistemas</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Gerencia de Projetos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Governança de TI</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Grafos e Algoritmos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Informática aplicada ao ensino de matemática</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Inteligência Artificial</Subject>
+		<Preference>Low</Preference>
+		<Subject>Interfaces usuário-máquina</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Introdução a Sistemas de Recomendação</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Introdução à Ciência da Computação</Subject>
+		<Preference>Low</Preference>
+		<Subject>Introdução à Teoria das Redes de Petri</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Introdução à computação quântica</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Linguagens Formais e Autômatos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Linguagens de Programação</Subject>
+		<Preference>Low</Preference>
+		<Subject>Matemática Discreta</Subject>
+		<Preference>Low</Preference>
+		<Subject>Mineração de Dados</Subject>
+		<Preference>High</Preference>
+		<Subject>Modelagem de Sistemas</Subject>
+		<Preference>High</Preference>
+		<Subject>Métodos Numéricos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Otimização Combinatória</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Otimização Linear</Subject>
+		<Preference>Low</Preference>
+		<Subject>Otimização inteira</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Processamento de Imagens</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Processamento de Linguagem Natural</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Programação Paralela e Distribuída</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Programação não-linear</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Projeto de Sistemas</Subject>
+		<Preference>High</Preference>
+		<Subject>Redes de Computadores</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Redes de Computadores Sem Fio</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Distribuídos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Sistemas Operacionais</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Sistemas multimídia</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Telefonia IP</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Teoria dos jogos algorítmica</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Tópicos Especiais em Banco de Dados</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Tópicos Especiais em Ciência da Computação</Subject>
+		<Preference>High</Preference>
+		<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+		<Preference>Low</Preference>
+		<Subject>Tópicos Especiais em Otimização</Subject>
+		<Preference>Low</Preference>
+		<Subject>Tópicos Especiais em Programação</Subject>
+		<Preference>High</Preference>
+		<Subject>Tópicos Especiais em Teoria dos Grafos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética em computação</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Ética, sociedade e tecnologia</Subject>
+		<Preference>Indifferent</Preference>
+	</Subjects_Preferences>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>I</Name>
+	<Active>true</Active>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Subjects_Preferences>
+		<Subject>Algoritmos Paralelos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Análise de Algoritmos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Aprendizado de máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquiteturas Paralelas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados</Subject>
+		<Preference>Low</Preference>
+		<Subject>Banco de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos Digitais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos eletrônicos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Compiladores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computadores e Sociedade</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Computação Gráfica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação III</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Criptografia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Desenvolvimento de Aplicações e Internet</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Educação e informática</Subject>
+		<Preference>Low</Preference>
+		<Subject>Empreendedorismo</Subject>
+		<Preference>Low</Preference>
+		<Subject>Engenharia de Software I</Subject>
+		<Preference>High</Preference>
+		<Subject>Engenharia de software II</Subject>
+		<Preference>Low</Preference>
+		<Subject>Estrutura de Dados I</Subject>
+		<Preference>Low</Preference>
+		<Subject>Estrutura de Dados II</Subject>
+		<Preference>Low</Preference>
+		<Subject>Fundamento de Sistemas</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Gerencia de Projetos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Governança de TI</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Grafos e Algoritmos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Informática aplicada ao ensino de matemática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Inteligência Artificial</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Interfaces usuário-máquina</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Introdução a Sistemas de Recomendação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à Ciência da Computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à Teoria das Redes de Petri</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Introdução à computação quântica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens Formais e Autômatos</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Linguagens de Programação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Matemática Discreta</Subject>
+		<Preference>High</Preference>
+		<Subject>Mineração de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Modelagem de Sistemas</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Métodos Numéricos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Combinatória</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização inteira</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Imagens</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Linguagem Natural</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação Paralela e Distribuída</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação não-linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Projeto de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores Sem Fio</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Distribuídos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Operacionais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas multimídia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Telefonia IP</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Teoria dos jogos algorítmica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Ciência da Computação</Subject>
+		<Preference>Low</Preference>
+		<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Otimização</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Programação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Teoria dos Grafos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética em computação</Subject>
+		<Preference>High</Preference>
+		<Subject>Ética, sociedade e tecnologia</Subject>
+		<Preference>Indifferent</Preference>
+	</Subjects_Preferences>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>J</Name>
+	<Active>true</Active>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Subjects_Preferences>
+		<Subject>Algoritmos Paralelos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Análise de Algoritmos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Aprendizado de máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores I</Subject>
+		<Preference>High</Preference>
+		<Subject>Arquitetura de Computadores II</Subject>
+		<Preference>High</Preference>
+		<Subject>Arquiteturas Paralelas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos Digitais</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Circuitos eletrônicos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Compiladores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computadores e Sociedade</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação I</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computação II</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computação III</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Criptografia</Subject>
+		<Preference>Low</Preference>
+		<Subject>Desenvolvimento de Aplicações e Internet</Subject>
+		<Preference>Low</Preference>
+		<Subject>Educação e informática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Empreendedorismo</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de Software I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de software II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Estrutura de Dados I</Subject>
+		<Preference>Low</Preference>
+		<Subject>Estrutura de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Fundamento de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Gerencia de Projetos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Governança de TI</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Grafos e Algoritmos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Informática aplicada ao ensino de matemática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Inteligência Artificial</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Interfaces usuário-máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução a Sistemas de Recomendação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à Ciência da Computação</Subject>
+		<Preference>Low</Preference>
+		<Subject>Introdução à Teoria das Redes de Petri</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à computação quântica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens Formais e Autômatos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens de Programação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Matemática Discreta</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Mineração de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Modelagem de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Métodos Numéricos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Combinatória</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização inteira</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Imagens</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Linguagem Natural</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação Paralela e Distribuída</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação não-linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Projeto de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Redes de Computadores Sem Fio</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Sistemas Distribuídos</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Sistemas Operacionais</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Sistemas multimídia</Subject>
+		<Preference>High</Preference>
+		<Subject>Telefonia IP</Subject>
+		<Preference>Low</Preference>
+		<Subject>Teoria dos jogos algorítmica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Ciência da Computação</Subject>
+		<Preference>Low</Preference>
+		<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Otimização</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Programação</Subject>
+		<Preference>Low</Preference>
+		<Subject>Tópicos Especiais em Teoria dos Grafos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética em computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética, sociedade e tecnologia</Subject>
+		<Preference>Very_Low</Preference>
+	</Subjects_Preferences>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>K</Name>
+	<Active>true</Active>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Subjects_Preferences>
+		<Subject>Algoritmos Paralelos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Análise de Algoritmos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Aprendizado de máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores I</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Arquitetura de Computadores II</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Arquiteturas Paralelas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Banco de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos Digitais</Subject>
+		<Preference>High</Preference>
+		<Subject>Circuitos eletrônicos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Compiladores</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Computadores e Sociedade</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Computação Gráfica</Subject>
+		<Preference>High</Preference>
+		<Subject>Computação Gráfica II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação I</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Computação II</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Computação III</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Criptografia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Desenvolvimento de Aplicações e Internet</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Educação e informática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Empreendedorismo</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de Software I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de software II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Estrutura de Dados I</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Estrutura de Dados II</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Fundamento de Sistemas</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Gerencia de Projetos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Governança de TI</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Grafos e Algoritmos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Informática aplicada ao ensino de matemática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Inteligência Artificial</Subject>
+		<Preference>High</Preference>
+		<Subject>Interfaces usuário-máquina</Subject>
+		<Preference>High</Preference>
+		<Subject>Introdução a Sistemas de Recomendação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à Ciência da Computação</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Introdução à Teoria das Redes de Petri</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à computação quântica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens Formais e Autômatos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Linguagens de Programação</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Matemática Discreta</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Mineração de Dados</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Modelagem de Sistemas</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Métodos Numéricos</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Otimização Combinatória</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização inteira</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Imagens</Subject>
+		<Preference>High</Preference>
+		<Subject>Processamento de Linguagem Natural</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação Paralela e Distribuída</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Programação não-linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Projeto de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores Sem Fio</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Distribuídos</Subject>
+		<Preference>High</Preference>
+		<Subject>Sistemas Operacionais</Subject>
+		<Preference>High</Preference>
+		<Subject>Sistemas multimídia</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Telefonia IP</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Teoria dos jogos algorítmica</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Tópicos Especiais em Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Ciência da Computação</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+		<Preference>High</Preference>
+		<Subject>Tópicos Especiais em Otimização</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Tópicos Especiais em Programação</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Tópicos Especiais em Teoria dos Grafos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética em computação</Subject>
+		<Preference>Low</Preference>
+		<Subject>Ética, sociedade e tecnologia</Subject>
+		<Preference>Very_Low</Preference>
+	</Subjects_Preferences>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>L</Name>
+	<Active>true</Active>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Subjects_Preferences>
+		<Subject>Algoritmos Paralelos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Análise de Algoritmos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Aprendizado de máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquiteturas Paralelas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados</Subject>
+		<Preference>Low</Preference>
+		<Subject>Banco de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos Digitais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos eletrônicos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Compiladores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computadores e Sociedade</Subject>
+		<Preference>High</Preference>
+		<Subject>Computação Gráfica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação I</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computação II</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computação III</Subject>
+		<Preference>Low</Preference>
+		<Subject>Criptografia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Desenvolvimento de Aplicações e Internet</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Educação e informática</Subject>
+		<Preference>High</Preference>
+		<Subject>Empreendedorismo</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Engenharia de Software I</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Engenharia de software II</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Estrutura de Dados I</Subject>
+		<Preference>Low</Preference>
+		<Subject>Estrutura de Dados II</Subject>
+		<Preference>Low</Preference>
+		<Subject>Fundamento de Sistemas</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Gerencia de Projetos</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Governança de TI</Subject>
+		<Preference>High</Preference>
+		<Subject>Grafos e Algoritmos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Informática aplicada ao ensino de matemática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Inteligência Artificial</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Interfaces usuário-máquina</Subject>
+		<Preference>Low</Preference>
+		<Subject>Introdução a Sistemas de Recomendação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à Ciência da Computação</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Introdução à Teoria das Redes de Petri</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à computação quântica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens Formais e Autômatos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Linguagens de Programação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Matemática Discreta</Subject>
+		<Preference>Low</Preference>
+		<Subject>Mineração de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Modelagem de Sistemas</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Métodos Numéricos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Combinatória</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização inteira</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Imagens</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Linguagem Natural</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação Paralela e Distribuída</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação não-linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Projeto de Sistemas</Subject>
+		<Preference>Low</Preference>
+		<Subject>Redes de Computadores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores Sem Fio</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Distribuídos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Operacionais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas multimídia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Telefonia IP</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Teoria dos jogos algorítmica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Ciência da Computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Otimização</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Programação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Teoria dos Grafos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética em computação</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Ética, sociedade e tecnologia</Subject>
+		<Preference>Indifferent</Preference>
+	</Subjects_Preferences>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>M</Name>
+	<Active>false</Active>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Subjects_Preferences>
+		<Subject>Algoritmos Paralelos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Análise de Algoritmos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Aprendizado de máquina</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Arquitetura de Computadores I</Subject>
+		<Preference>High</Preference>
+		<Subject>Arquitetura de Computadores II</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Arquiteturas Paralelas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Banco de Dados II</Subject>
+		<Preference>High</Preference>
+		<Subject>Circuitos Digitais</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Circuitos eletrônicos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Compiladores</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Computadores e Sociedade</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computação Gráfica</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computação Gráfica II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação I</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Computação II</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Computação III</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Criptografia</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Desenvolvimento de Aplicações e Internet</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Educação e informática</Subject>
+		<Preference>Low</Preference>
+		<Subject>Empreendedorismo</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Engenharia de Software I</Subject>
+		<Preference>High</Preference>
+		<Subject>Engenharia de software II</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Estrutura de Dados I</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Estrutura de Dados II</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Fundamento de Sistemas</Subject>
+		<Preference>Low</Preference>
+		<Subject>Gerencia de Projetos</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Governança de TI</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Grafos e Algoritmos</Subject>
+		<Preference>High</Preference>
+		<Subject>Informática aplicada ao ensino de matemática</Subject>
+		<Preference>Low</Preference>
+		<Subject>Inteligência Artificial</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Interfaces usuário-máquina</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Introdução a Sistemas de Recomendação</Subject>
+		<Preference>High</Preference>
+		<Subject>Introdução à Ciência da Computação</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Introdução à Teoria das Redes de Petri</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à computação quântica</Subject>
+		<Preference>Low</Preference>
+		<Subject>Linguagens Formais e Autômatos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Linguagens de Programação</Subject>
+		<Preference>High</Preference>
+		<Subject>Matemática Discreta</Subject>
+		<Preference>Low</Preference>
+		<Subject>Mineração de Dados</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Modelagem de Sistemas</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Métodos Numéricos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Otimização Combinatória</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização inteira</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Imagens</Subject>
+		<Preference>Low</Preference>
+		<Subject>Processamento de Linguagem Natural</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Programação Paralela e Distribuída</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Programação não-linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Projeto de Sistemas</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Redes de Computadores</Subject>
+		<Preference>Low</Preference>
+		<Subject>Redes de Computadores Sem Fio</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Distribuídos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Sistemas Operacionais</Subject>
+		<Preference>High</Preference>
+		<Subject>Sistemas multimídia</Subject>
+		<Preference>High</Preference>
+		<Subject>Telefonia IP</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Teoria dos jogos algorítmica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Banco de Dados</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Tópicos Especiais em Ciência da Computação</Subject>
+		<Preference>High</Preference>
+		<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Tópicos Especiais em Otimização</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Programação</Subject>
+		<Preference>High</Preference>
+		<Subject>Tópicos Especiais em Teoria dos Grafos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética em computação</Subject>
+		<Preference>Low</Preference>
+		<Subject>Ética, sociedade e tecnologia</Subject>
+		<Preference>Low</Preference>
+	</Subjects_Preferences>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>N</Name>
+	<Active>true</Active>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Subjects_Preferences>
+		<Subject>Algoritmos Paralelos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Análise de Algoritmos</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Aprendizado de máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquiteturas Paralelas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos Digitais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos eletrônicos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Compiladores</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computadores e Sociedade</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação I</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computação II</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computação III</Subject>
+		<Preference>Low</Preference>
+		<Subject>Criptografia</Subject>
+		<Preference>Low</Preference>
+		<Subject>Desenvolvimento de Aplicações e Internet</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Educação e informática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Empreendedorismo</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de Software I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de software II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Estrutura de Dados I</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Estrutura de Dados II</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Fundamento de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Gerencia de Projetos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Governança de TI</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Grafos e Algoritmos</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Informática aplicada ao ensino de matemática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Inteligência Artificial</Subject>
+		<Preference>High</Preference>
+		<Subject>Interfaces usuário-máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução a Sistemas de Recomendação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à Ciência da Computação</Subject>
+		<Preference>Low</Preference>
+		<Subject>Introdução à Teoria das Redes de Petri</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à computação quântica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens Formais e Autômatos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Linguagens de Programação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Matemática Discreta</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Mineração de Dados</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Modelagem de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Métodos Numéricos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Otimização Combinatória</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Otimização Linear</Subject>
+		<Preference>High</Preference>
+		<Subject>Otimização inteira</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Processamento de Imagens</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Linguagem Natural</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Programação Paralela e Distribuída</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Programação não-linear</Subject>
+		<Preference>High</Preference>
+		<Subject>Projeto de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores Sem Fio</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Distribuídos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Sistemas Operacionais</Subject>
+		<Preference>Low</Preference>
+		<Subject>Sistemas multimídia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Telefonia IP</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Teoria dos jogos algorítmica</Subject>
+		<Preference>High</Preference>
+		<Subject>Tópicos Especiais em Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Ciência da Computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Tópicos Especiais em Otimização</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Tópicos Especiais em Programação</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Tópicos Especiais em Teoria dos Grafos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética em computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética, sociedade e tecnologia</Subject>
+		<Preference>Very_Low</Preference>
+	</Subjects_Preferences>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>O</Name>
+	<Active>false</Active>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Subjects_Preferences>
+		<Subject>Algoritmos Paralelos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Análise de Algoritmos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Aprendizado de máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores I</Subject>
+		<Preference>High</Preference>
+		<Subject>Arquitetura de Computadores II</Subject>
+		<Preference>High</Preference>
+		<Subject>Arquiteturas Paralelas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados</Subject>
+		<Preference>Low</Preference>
+		<Subject>Banco de Dados II</Subject>
+		<Preference>Low</Preference>
+		<Subject>Circuitos Digitais</Subject>
+		<Preference>Low</Preference>
+		<Subject>Circuitos eletrônicos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Compiladores</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computadores e Sociedade</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computação Gráfica</Subject>
+		<Preference>Low</Preference>
+		<Subject>Computação Gráfica II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação I</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Computação II</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Computação III</Subject>
+		<Preference>High</Preference>
+		<Subject>Criptografia</Subject>
+		<Preference>Low</Preference>
+		<Subject>Desenvolvimento de Aplicações e Internet</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Educação e informática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Empreendedorismo</Subject>
+		<Preference>Low</Preference>
+		<Subject>Engenharia de Software I</Subject>
+		<Preference>Low</Preference>
+		<Subject>Engenharia de software II</Subject>
+		<Preference>Low</Preference>
+		<Subject>Estrutura de Dados I</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Estrutura de Dados II</Subject>
+		<Preference>High</Preference>
+		<Subject>Fundamento de Sistemas</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Gerencia de Projetos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Governança de TI</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Grafos e Algoritmos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Informática aplicada ao ensino de matemática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Inteligência Artificial</Subject>
+		<Preference>Low</Preference>
+		<Subject>Interfaces usuário-máquina</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Introdução a Sistemas de Recomendação</Subject>
+		<Preference>Low</Preference>
+		<Subject>Introdução à Ciência da Computação</Subject>
+		<Preference>Low</Preference>
+		<Subject>Introdução à Teoria das Redes de Petri</Subject>
+		<Preference>Low</Preference>
+		<Subject>Introdução à computação quântica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens Formais e Autômatos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Linguagens de Programação</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Matemática Discreta</Subject>
+		<Preference>Low</Preference>
+		<Subject>Mineração de Dados</Subject>
+		<Preference>Low</Preference>
+		<Subject>Modelagem de Sistemas</Subject>
+		<Preference>Low</Preference>
+		<Subject>Métodos Numéricos</Subject>
+		<Preference>Low</Preference>
+		<Subject>Otimização Combinatória</Subject>
+		<Preference>Low</Preference>
+		<Subject>Otimização Linear</Subject>
+		<Preference>Low</Preference>
+		<Subject>Otimização inteira</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Imagens</Subject>
+		<Preference>Low</Preference>
+		<Subject>Processamento de Linguagem Natural</Subject>
+		<Preference>Low</Preference>
+		<Subject>Programação Paralela e Distribuída</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Programação não-linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Projeto de Sistemas</Subject>
+		<Preference>Low</Preference>
+		<Subject>Redes de Computadores</Subject>
+		<Preference>High</Preference>
+		<Subject>Redes de Computadores Sem Fio</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Distribuídos</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Sistemas Operacionais</Subject>
+		<Preference>High</Preference>
+		<Subject>Sistemas multimídia</Subject>
+		<Preference>High</Preference>
+		<Subject>Telefonia IP</Subject>
+		<Preference>Indifferent</Preference>
+		<Subject>Teoria dos jogos algorítmica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Banco de Dados</Subject>
+		<Preference>Low</Preference>
+		<Subject>Tópicos Especiais em Ciência da Computação</Subject>
+		<Preference>High</Preference>
+		<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+		<Preference>Low</Preference>
+		<Subject>Tópicos Especiais em Otimização</Subject>
+		<Preference>Low</Preference>
+		<Subject>Tópicos Especiais em Programação</Subject>
+		<Preference>Low</Preference>
+		<Subject>Tópicos Especiais em Teoria dos Grafos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética em computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética, sociedade e tecnologia</Subject>
+		<Preference>Very_Low</Preference>
+	</Subjects_Preferences>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>P</Name>
+	<Active>true</Active>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Subjects_Preferences>
+		<Subject>Algoritmos Paralelos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Análise de Algoritmos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Aprendizado de máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquitetura de Computadores II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Arquiteturas Paralelas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Banco de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos Digitais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Circuitos eletrônicos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Compiladores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computadores e Sociedade</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação Gráfica II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Computação III</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Criptografia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Desenvolvimento de Aplicações e Internet</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Educação e informática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Empreendedorismo</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de Software I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Engenharia de software II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Estrutura de Dados I</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Estrutura de Dados II</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Fundamento de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Gerencia de Projetos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Governança de TI</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Grafos e Algoritmos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Informática aplicada ao ensino de matemática</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Inteligência Artificial</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Interfaces usuário-máquina</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução a Sistemas de Recomendação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à Ciência da Computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à Teoria das Redes de Petri</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Introdução à computação quântica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens Formais e Autômatos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Linguagens de Programação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Matemática Discreta</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Mineração de Dados</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Modelagem de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Métodos Numéricos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Combinatória</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização Linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Otimização inteira</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Imagens</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Processamento de Linguagem Natural</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação Paralela e Distribuída</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Programação não-linear</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Projeto de Sistemas</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Redes de Computadores Sem Fio</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Distribuídos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas Operacionais</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Sistemas multimídia</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Telefonia IP</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Teoria dos jogos algorítmica</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Banco de Dados</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Ciência da Computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+		<Preference>Very_High</Preference>
+		<Subject>Tópicos Especiais em Otimização</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Programação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Tópicos Especiais em Teoria dos Grafos</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética em computação</Subject>
+		<Preference>Very_Low</Preference>
+		<Subject>Ética, sociedade e tecnologia</Subject>
+		<Preference>Very_Low</Preference>
+	</Subjects_Preferences>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>1º Período</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>1º Período Alunos Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1º Período Alunos Periodizados A</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1º Período Alunos Periodizados B</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>1º Período Alunos Não Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>2º Período</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>2º Período Alunos Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>2º Período Alunos Não Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>3º Período</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>3º Período Alunos Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>3º Período Alunos Não Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>4º Período</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>4º Período Alunos Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>4º Período Alunos Não Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>5º Período</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>5º Período Alunos Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>5º Período Alunos Não Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>6º Período</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>6º Período Alunos Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>6º Período Alunos Não Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>7º Período</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>7º Período Alunos Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>7º Período Alunos Não Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>8º Período</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>8º Período Alunos Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>8º Período Alunos Não Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>9º Período</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>9º Período Alunos Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>9º Período Alunos Não Periodizados</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+</Students_List>
+
+<Activities_List>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Matemática Discreta</Subject>
+	<Students>1º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>1</Id>
+	<Activity_Group_Id>1</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Matemática Discreta</Subject>
+	<Students>1º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>2</Id>
+	<Activity_Group_Id>1</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Introdução à Ciência da Computação</Subject>
+	<Students>1º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>3</Id>
+	<Activity_Group_Id>3</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Introdução à Ciência da Computação</Subject>
+	<Students>1º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>4</Id>
+	<Activity_Group_Id>3</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Computação I</Subject>
+	<Students>1º Período Alunos Periodizados A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>5</Id>
+	<Activity_Group_Id>5</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Computação I</Subject>
+	<Students>1º Período Alunos Periodizados A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>6</Id>
+	<Activity_Group_Id>5</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Arquitetura de Computadores I</Subject>
+	<Students>3º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>7</Id>
+	<Activity_Group_Id>7</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Arquitetura de Computadores I</Subject>
+	<Students>3º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>8</Id>
+	<Activity_Group_Id>7</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Linguagens Formais e Autômatos</Subject>
+	<Students>3º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>9</Id>
+	<Activity_Group_Id>9</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Linguagens Formais e Autômatos</Subject>
+	<Students>3º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>10</Id>
+	<Activity_Group_Id>9</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Estrutura de Dados I</Subject>
+	<Students>3º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>11</Id>
+	<Activity_Group_Id>11</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Estrutura de Dados I</Subject>
+	<Students>3º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>12</Id>
+	<Activity_Group_Id>11</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Análise de Algoritmos</Subject>
+	<Students>5º Período Alunos Periodizados</Students>
+	<Students>6º Período Alunos Periodizados</Students>
+	<Students>7º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>13</Id>
+	<Activity_Group_Id>13</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Análise de Algoritmos</Subject>
+	<Students>5º Período Alunos Periodizados</Students>
+	<Students>6º Período Alunos Periodizados</Students>
+	<Students>7º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>14</Id>
+	<Activity_Group_Id>13</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Estrutura de Dados II</Subject>
+	<Students>5º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>15</Id>
+	<Activity_Group_Id>15</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Estrutura de Dados II</Subject>
+	<Students>5º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>16</Id>
+	<Activity_Group_Id>15</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+	<Students>5º Período Alunos Periodizados</Students>
+	<Students>6º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>17</Id>
+	<Activity_Group_Id>17</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Tópicos Especiais em Inteligência Artificial</Subject>
+	<Students>5º Período Alunos Periodizados</Students>
+	<Students>6º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>18</Id>
+	<Activity_Group_Id>17</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Modelagem de Sistemas</Subject>
+	<Students>5º Período Alunos Periodizados</Students>
+	<Students>6º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>19</Id>
+	<Activity_Group_Id>19</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Modelagem de Sistemas</Subject>
+	<Students>5º Período Alunos Periodizados</Students>
+	<Students>6º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>20</Id>
+	<Activity_Group_Id>19</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Sistemas Operacionais</Subject>
+	<Students>5º Período Alunos Periodizados</Students>
+	<Students>6º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>21</Id>
+	<Activity_Group_Id>21</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Sistemas Operacionais</Subject>
+	<Students>5º Período Alunos Periodizados</Students>
+	<Students>6º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>22</Id>
+	<Activity_Group_Id>21</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Otimização Linear</Subject>
+	<Students>6º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>23</Id>
+	<Activity_Group_Id>23</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Otimização Linear</Subject>
+	<Students>6º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>24</Id>
+	<Activity_Group_Id>23</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Engenharia de Software I</Subject>
+	<Students>7º Período Alunos Periodizados</Students>
+	<Students>8º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>25</Id>
+	<Activity_Group_Id>25</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Engenharia de Software I</Subject>
+	<Students>7º Período Alunos Periodizados</Students>
+	<Students>8º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>26</Id>
+	<Activity_Group_Id>25</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Computação Gráfica</Subject>
+	<Students>7º Período Alunos Periodizados</Students>
+	<Students>8º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>27</Id>
+	<Activity_Group_Id>27</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Computação Gráfica</Subject>
+	<Students>7º Período Alunos Periodizados</Students>
+	<Students>8º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>28</Id>
+	<Activity_Group_Id>27</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Sistemas Distribuídos</Subject>
+	<Students>7º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>29</Id>
+	<Activity_Group_Id>29</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Sistemas Distribuídos</Subject>
+	<Students>7º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>30</Id>
+	<Activity_Group_Id>29</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Projeto de Sistemas</Subject>
+	<Students>7º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>31</Id>
+	<Activity_Group_Id>31</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Projeto de Sistemas</Subject>
+	<Students>7º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>32</Id>
+	<Activity_Group_Id>31</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Gerencia de Projetos</Subject>
+	<Students>8º Período Alunos Periodizados</Students>
+	<Students>9º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>33</Id>
+	<Activity_Group_Id>33</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Gerencia de Projetos</Subject>
+	<Students>8º Período Alunos Periodizados</Students>
+	<Students>9º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>34</Id>
+	<Activity_Group_Id>33</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Computação III</Subject>
+	<Students>8º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>35</Id>
+	<Activity_Group_Id>35</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Computação III</Subject>
+	<Students>8º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>36</Id>
+	<Activity_Group_Id>35</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Tópicos Especiais em Programação</Subject>
+	<Students>8º Período Alunos Periodizados</Students>
+	<Students>9º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>37</Id>
+	<Activity_Group_Id>37</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Tópicos Especiais em Programação</Subject>
+	<Students>8º Período Alunos Periodizados</Students>
+	<Students>9º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>38</Id>
+	<Activity_Group_Id>37</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Tópicos Especiais em Otimização</Subject>
+	<Students>9º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>39</Id>
+	<Activity_Group_Id>39</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Tópicos Especiais em Otimização</Subject>
+	<Students>9º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>40</Id>
+	<Activity_Group_Id>39</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Programação Paralela e Distribuída</Subject>
+	<Students>9º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>41</Id>
+	<Activity_Group_Id>41</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Programação Paralela e Distribuída</Subject>
+	<Students>9º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>42</Id>
+	<Activity_Group_Id>41</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Mineração de Dados</Subject>
+	<Students>9º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>43</Id>
+	<Activity_Group_Id>43</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Mineração de Dados</Subject>
+	<Students>9º Período Alunos Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>44</Id>
+	<Activity_Group_Id>43</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Computação II</Subject>
+	<Students>2º Período Alunos Não Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>45</Id>
+	<Activity_Group_Id>45</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Computação II</Subject>
+	<Students>2º Período Alunos Não Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>46</Id>
+	<Activity_Group_Id>45</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Tópicos Especiais em Banco de Dados</Subject>
+	<Students>7º Período Alunos Não Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>47</Id>
+	<Activity_Group_Id>47</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Tópicos Especiais em Banco de Dados</Subject>
+	<Students>7º Período Alunos Não Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>48</Id>
+	<Activity_Group_Id>47</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Circuitos Digitais</Subject>
+	<Students>2º Período Alunos Não Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>49</Id>
+	<Activity_Group_Id>49</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T1</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Circuitos Digitais</Subject>
+	<Students>2º Período Alunos Não Periodizados</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>50</Id>
+	<Activity_Group_Id>49</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T2</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Computação I</Subject>
+	<Students>1º Período Alunos Periodizados B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>51</Id>
+	<Activity_Group_Id>51</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Name>T2</Name>
+	<Allow_Multiple_Teachers>0</Allow_Multiple_Teachers>
+	<Subject>Computação I</Subject>
+	<Students>1º Período Alunos Periodizados B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>52</Id>
+	<Activity_Group_Id>51</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+</Activities_List>
+
+<Time_Constraints_List>
+<ConstraintBasicCompulsoryTime>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsoryTime>
+<ConstraintTeachersMaxDaysPerWeek>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Max_Days_Per_Week>3</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeachersMaxDaysPerWeek>
+<ConstraintMaxActivitiesForAllTeachers>
+	<Group>Essential</Group>
+	<Maximum_Activities>4</Maximum_Activities>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMaxActivitiesForAllTeachers>
+<ConstraintMinActivitiesForAllTeachers>
+	<Group>Essential</Group>
+	<Minimum_Activities>1</Minimum_Activities>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinActivitiesForAllTeachers>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>1º Período Alunos Periodizados</Students>
+	<Number_of_Not_Available_Times>24</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>2º Período Alunos Periodizados</Students>
+	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>3º Período Alunos Periodizados</Students>
+	<Number_of_Not_Available_Times>24</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>4º Período Alunos Periodizados</Students>
+	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>5º Período Alunos Periodizados</Students>
+	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>6º Período Alunos Periodizados</Students>
+	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>7º Período Alunos Periodizados</Students>
+	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>8º Período Alunos Periodizados</Students>
+	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>9º Período Alunos Periodizados</Students>
+	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintBreakTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Break_Times>5</Number_of_Break_Times>
+	<Break_Time>
+		<Day>Segunda</Day>
+		<Hour>12:00</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Terça</Day>
+		<Hour>12:00</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Quarta</Day>
+		<Hour>12:00</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Quinta</Day>
+		<Hour>12:00</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Sexta</Day>
+		<Hour>12:00</Hour>
+	</Break_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBreakTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>1º Período Alunos Não Periodizados</Students>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>2º Período Alunos Não Periodizados</Students>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>3º Período Alunos Não Periodizados</Students>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>4º Período Alunos Não Periodizados</Students>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>5º Período Alunos Não Periodizados</Students>
+	<Number_of_Not_Available_Times>10</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>6º Período Alunos Não Periodizados</Students>
+	<Number_of_Not_Available_Times>10</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>7º Período Alunos Não Periodizados</Students>
+	<Number_of_Not_Available_Times>10</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>8º Período Alunos Não Periodizados</Students>
+	<Number_of_Not_Available_Times>10</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>9º Período Alunos Não Periodizados</Students>
+	<Number_of_Not_Available_Times>10</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta</Day>
+		<Hour>20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintTeachersMaxHoursInWorkDaily>
+	<Group>Important</Group>
+	<Maximum_Hours_InWork>4</Maximum_Hours_InWork>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeachersMaxHoursInWorkDaily>
+<ConstraintNoTeacherInSubjectPreference>
+	<Group>Desirable</Group>
+	<Preference>High</Preference>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintNoTeacherInSubjectPreference>
+<ConstraintNoTeacherInSubjectPreference>
+	<Group>Important</Group>
+	<Preference>Indifferent</Preference>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintNoTeacherInSubjectPreference>
+<ConstraintNoTeacherInSubjectPreference>
+	<Group>Essential</Group>
+	<Preference>Low</Preference>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintNoTeacherInSubjectPreference>
+<ConstraintNoTeacherInSubjectPreference>
+	<Group>Essential</Group>
+	<Preference>Very_Low</Preference>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintNoTeacherInSubjectPreference>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>1</Activity_Id>
+	<Activity_Id>2</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>3</Activity_Id>
+	<Activity_Id>4</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>5</Activity_Id>
+	<Activity_Id>6</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>7</Activity_Id>
+	<Activity_Id>8</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>9</Activity_Id>
+	<Activity_Id>10</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>11</Activity_Id>
+	<Activity_Id>12</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>13</Activity_Id>
+	<Activity_Id>14</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>15</Activity_Id>
+	<Activity_Id>16</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>17</Activity_Id>
+	<Activity_Id>18</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>19</Activity_Id>
+	<Activity_Id>20</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>21</Activity_Id>
+	<Activity_Id>22</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>23</Activity_Id>
+	<Activity_Id>24</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>25</Activity_Id>
+	<Activity_Id>26</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>27</Activity_Id>
+	<Activity_Id>28</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>29</Activity_Id>
+	<Activity_Id>30</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>31</Activity_Id>
+	<Activity_Id>32</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>33</Activity_Id>
+	<Activity_Id>34</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>35</Activity_Id>
+	<Activity_Id>36</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>37</Activity_Id>
+	<Activity_Id>38</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>39</Activity_Id>
+	<Activity_Id>40</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>41</Activity_Id>
+	<Activity_Id>42</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>43</Activity_Id>
+	<Activity_Id>44</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>45</Activity_Id>
+	<Activity_Id>46</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>47</Activity_Id>
+	<Activity_Id>48</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>49</Activity_Id>
+	<Activity_Id>50</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintActivitiesNotOverlapping>
+	<Group>Desirable</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Number_of_Activities>32</Number_of_Activities>
+	<Activity_Id>13</Activity_Id>
+	<Activity_Id>7</Activity_Id>
+	<Activity_Id>49</Activity_Id>
+	<Activity_Id>28</Activity_Id>
+	<Activity_Id>27</Activity_Id>
+	<Activity_Id>6</Activity_Id>
+	<Activity_Id>5</Activity_Id>
+	<Activity_Id>45</Activity_Id>
+	<Activity_Id>46</Activity_Id>
+	<Activity_Id>36</Activity_Id>
+	<Activity_Id>35</Activity_Id>
+	<Activity_Id>25</Activity_Id>
+	<Activity_Id>11</Activity_Id>
+	<Activity_Id>12</Activity_Id>
+	<Activity_Id>16</Activity_Id>
+	<Activity_Id>15</Activity_Id>
+	<Activity_Id>33</Activity_Id>
+	<Activity_Id>43</Activity_Id>
+	<Activity_Id>19</Activity_Id>
+	<Activity_Id>23</Activity_Id>
+	<Activity_Id>42</Activity_Id>
+	<Activity_Id>41</Activity_Id>
+	<Activity_Id>31</Activity_Id>
+	<Activity_Id>29</Activity_Id>
+	<Activity_Id>21</Activity_Id>
+	<Activity_Id>48</Activity_Id>
+	<Activity_Id>47</Activity_Id>
+	<Activity_Id>18</Activity_Id>
+	<Activity_Id>17</Activity_Id>
+	<Activity_Id>39</Activity_Id>
+	<Activity_Id>38</Activity_Id>
+	<Activity_Id>37</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesNotOverlapping>
+<ConstraintMinDaysBetweenActivities>
+	<Group>Important</Group>
+	<Weight_Percentage>80</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>51</Activity_Id>
+	<Activity_Id>52</Activity_Id>
+	<MinDays>2</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintActivitiesSameStartingTime>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>5</Activity_Id>
+	<Activity_Id>51</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintActivitiesSameStartingTime>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>6</Activity_Id>
+	<Activity_Id>52</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintTeacherMaxDaysPerWeek>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>C</Teacher_Name>
+	<Max_Days_Per_Week>2</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxDaysPerWeek>
+<ConstraintTeacherMaxDaysPerWeek>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>E</Teacher_Name>
+	<Max_Days_Per_Week>2</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxDaysPerWeek>
+<ConstraintTeacherMaxDaysPerWeek>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>I</Teacher_Name>
+	<Max_Days_Per_Week>2</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxDaysPerWeek>
+<ConstraintTeacherMaxDaysPerWeek>
+	<Group>Essential</Group>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>L</Teacher_Name>
+	<Max_Days_Per_Week>2</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxDaysPerWeek>
+</Time_Constraints_List>
+
+<Generation_Settings>
+	<Essential_Weight>70</Essential_Weight>
+	<Important_Weight>20</Important_Weight>
+	<Desirable_Weight>1</Desirable_Weight>
+	<Subject_Preference_Weight>20</Subject_Preference_Weight>
+</Generation_Settings>
+</fet>

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Timetable Generator
+GenericName=Timetable software for schools
+Comment=Generate timetables for educational institutions
+Keywords=schedule;planning;school;high-school;university;education;teacher;students;
+Icon=m-fet
+Exec=m-fet
+Terminal=false
+StartupNotify=true
+Categories=Office;Chart;Qt;
