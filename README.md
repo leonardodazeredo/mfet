@@ -1,4 +1,4 @@
-# fet-tcc
+# m-FET - Timetabling software
 
 This project is a product of the work required for the completion of the undergraduate course of Computer Science in the Universidade Federal Rural do Rio de Janeiro.
 
@@ -8,16 +8,16 @@ A common problem in all educational institutions in the world and recurrent to e
 
 Program description:
 
-	mFET is free timetabling software (licensed under the GNU Affero General Public License version 3 or later).
-	This program aims to automatically generate the timetable of a school, high-school or university.
-	It may be used for other timetabling purposes.
+mFET is free timetabling software (licensed under the GNU Affero General Public License version 3 or later).
+This program aims to automatically generate the timetable of a school, high-school or university.
+It may be used for other timetabling purposes.
 
-	This software is based on the source code of FET version 5.31.6 (http://lalescu.ro/liviu/fet/) but significant changes were made to almost all parts of the original code including:
+This software is based on the source code of FET version 5.31.6 (http://lalescu.ro/liviu/fet/) but significant changes were made to almost all parts of the original code including:
 
-	- complete replacement of the timetable generation techniques.
-	- removal of the space allocation feature.
-	- addition of automatic teacher assignment to activities.
-	- a lot of refactoring.
+- complete replacement of the timetable generation techniques.
+- removal of the space allocation feature.
+- addition of automatic teacher assignment to activities.
+- a lot of refactoring.
 
 
 Copyright (C) 2018 Leonardo Azeredo.
