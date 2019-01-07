@@ -3,10 +3,41 @@
         {
             "constructionMethod": "Construction_By_SubGroups",
             "localSearch": null,
-            "name": "GRASP",
+            "name": "Random_Start",
             "settings": {
-                "alpha": 0.699999988079071,
-                "n_iter": 1
+                "n_iter": 100
+            }
+        },
+        {
+            "localSearch": {
+                "localSearch": {
+                    "inN": "None",
+                    "localSearch": null,
+                    "name": "First_Improving",
+                    "settings": null
+                },
+                "name": "VND",
+                "settings": {
+                    "neighborhoods_to_use": [
+                        true,
+                        true,
+                        false,
+                        true,
+                        true
+                    ]
+                }
+            },
+            "name": "VNS_Random_Neighborhood",
+            "settings": {
+                "n_iter_with_no_improv": 50,
+                "neighborhoods_to_use": [
+                    true,
+                    true,
+                    false,
+                    true,
+                    true
+                ],
+                "pertubation_max_size": 5
             }
         }
     ]
