@@ -255,6 +255,8 @@ int main(int argc, char **argv)
             Solution& c=gen.solutionFound;
             c.cost(true);
 
+            TContext::get()->addSolution(c);
+
             QString s = outputDirectory+defs::FILE_SEP+TContext::get()->getInstanceName();
 
             TContext::get()->saveSolutions(nullptr, s, QString(), true);

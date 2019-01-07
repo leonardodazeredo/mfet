@@ -164,9 +164,6 @@ Enums::Status Generate::runGenerate(bool runAsync, QWidget* parent)
 
     generate(runAsync);
 
-    TContext::get()->addSolution(solutionFound);
-
-//    timerToAbort->start(60000 * MAX_MINUTES);
     return Enums::Success;
 }
 
