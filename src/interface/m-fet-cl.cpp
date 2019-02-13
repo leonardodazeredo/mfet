@@ -225,7 +225,7 @@ int main(int argc, char **argv)
             cout<<"m-FET version "<<qPrintable(M_FET_VERSION)<<endl;
             cout<<"Free timetabling software, licensed under the GNU Affero General Public License version 3 or later"<<endl;
             cout<<"Copyright (C) 2018 Leonardo Azeredo"<<endl;
-            cout<<"Repository: https://github.com/odrand/mfet"<<endl;
+            cout<<"Repository: https://github.com/leonardodazeredo/mfet"<<endl;
             return 0;
         }
 
